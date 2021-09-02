@@ -75,7 +75,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # turn off by keeping the blog name empty
 blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: sorry, this person does not write blog :-)
 permalink: /blog/:year/:title/
 
 # Pagination
