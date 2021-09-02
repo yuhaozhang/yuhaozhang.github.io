@@ -127,6 +127,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - blog
+  - news
+  - projects
 
 keep_files:
   - CNAME
