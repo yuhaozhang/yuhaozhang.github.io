@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuhao Zhang | Homepage # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Yuhao
 last_name: Zhang
 # email: you@example.com
@@ -82,7 +82,7 @@ pagination:
   enabled: false
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------

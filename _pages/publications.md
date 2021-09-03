@@ -8,6 +8,8 @@ nav: true
 
 For a more up-to-date list, please also see my [google scholar](https://scholar.google.com/citations?user=2d-0ybAAAAAJ&hl=en) page.
 
+(*=equal contribution)
+
 <div class="publications">
 
 {% for y in page.years %}
