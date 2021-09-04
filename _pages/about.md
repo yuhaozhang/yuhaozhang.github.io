@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <span style="font-family:STKaiTi,KaiTi;font-size:25px">张宇浩</span>
+description: <span style="font-family:KaiTi SC,STKaiTi,KaiTi;font-size:25px">张宇浩</span>
 
 profile:
   align: right
