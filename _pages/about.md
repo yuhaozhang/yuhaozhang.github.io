@@ -20,24 +20,24 @@ social: true # includes social icons at the bottom of the page
 
 Hey there, welcome!
 
-I am currently a scientist in the founding team of [Samaya AI](https://samaya.ai/). We are on a journey to improve knowledge discovery by harnessing the power of large language models.
+I am a founding team researcher at [Samaya AI](https://samaya.ai/), where I currently lead the ML team. My research focuses on building AI systems that can find, reason over, and act on knowledge reliably, by improving the models, the harnesses that run them, and the environments used to evaluate them.
 
 Before Samaya, I was a scientist at [Amazon AWS AI](https://www.amazon.science/) where I worked on core AWS services relevant to enterprise search.
-I obtained my PhD degree from Stanford University, where I was jointly advised by [Prof. Chris Manning](https://nlp.stanford.edu/manning/) in the [Stanford NLP Group](https://nlp.stanford.edu) and [Prof. Curtis Langlotz](https://curtlanglotz.com/) in the [Stanford AIMI Center](https://aimi.stanford.edu/). My PhD work has focused on natural language processing and its applications in medicine.
-
-Before that, I obtained a M.S. degree in the Computer Science Department at <u>Stanford University</u>, and a bachelor's degree from the Department of Electronic Engineering at <u>Tsinghua University</u>, China.
+I obtained my PhD degree from Stanford University, where I was jointly advised by [Prof. Chris Manning](https://nlp.stanford.edu/manning/) in the [Stanford NLP Group](https://nlp.stanford.edu) and [Prof. Curtis Langlotz](https://curtlanglotz.com/) in the [Stanford AIMI Center](https://aimi.stanford.edu/). My PhD work focused on foundations for natural language processing and its applications in medicine.
 <br/><br/>
 
 ### research interest
 
-I care about NLP systems and their impact in real-world applications. My work has covered the following areas:
+I care about AI systems and their impact in real-world applications.
 
-- retrieval and retrieval-augmented generation;
-- information extraction;
-- summarization;
-- multimodal learning;
-- syntactic analysis and open-source NLP toolkit (I am a co-author of the widely used [Stanza NLP library](https://stanfordnlp.github.io/stanza/)).
-  <br/><br/>
+**Current focus**
+
+- AI agents for knowledge-intensive work: agentic search, tool use, and long-horizon reasoning;
+- retrieval systems;
+- evaluation and benchmarks for AI agents (e.g., [FrontierFinance](https://samaya.ai/benchmarks/frontier-finance)).
+
+**Previously**: information extraction, summarization, and NLP for medicine; multimodal learning; syntactic analysis and open-source NLP toolkits (I co-authored the widely used [Stanza NLP library](https://stanfordnlp.github.io/stanza/)).
+<br/><br/>
 
 ### contact
 
